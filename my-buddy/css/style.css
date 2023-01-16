@@ -1,0 +1,18 @@
+.picture{
+    width: 50%; !important;
+    height: 50%; !important;
+}.gradient-custom {
+    background: #132bd5;
+    background: -webkit-linear-gradient(to right, rgb(188, 196, 0), rgb(19, 43, 213));
+    background: linear-gradient(to right, rgb(188, 196, 0), rgb(19, 43, 213))
+}ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}li2 {
+    float: left;
+}li2 a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;}
